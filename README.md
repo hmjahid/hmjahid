@@ -2,7 +2,8 @@
 
 I am Md Jahid Hasan a front-end developer. I am a detail-oriented and result-oriented person. I love my duties and responsibilities. I highly focus on my job. I am a quick learner and love coding. I love designing and developing Frond-End of amazing websites in Linux environment. I am keen to learn new technology.
 
-![Md Jahid Hasan-FD](https://user-images.githubusercontent.com/80060849/227257262-6ae549a7-7844-4513-a688-f4a5c5aaeb75.jpg)
+![Md Jahid Hasan-FD](https://user-images.githubusercontent.com/80060849/227259444-18f77290-0788-4976-8308-40b5e91b6e30.png)
+
 
 <!--
 **hmjahid/hmjahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
