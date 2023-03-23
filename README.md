@@ -3,7 +3,7 @@
 I am Md Jahid Hasan a front-end developer. I am a detail-oriented and result-oriented person. I love my duties and responsibilities. I highly focus on my job. I am a quick learner and love coding. I love designing and developing Frond-End of amazing websites in Linux environment. I am keen to learn new technology.
 
 Download My CV from here: 
-[Md Jahid Hasan.pdf](https://github.com/hmjahid/hmjahid/files/11052935/Md.Jahid.Hasan-FD.pdf)
+[Md Jahid Hasan-CV.pdf](https://github.com/hmjahid/hmjahid/files/11052935/Md.Jahid.Hasan-FD.pdf)
 
 
 <!--
