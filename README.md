@@ -4,9 +4,11 @@ I am Md Jahid Hasan a front-end developer. I am a detail-oriented and result-ori
 
 Let's connect on Linkedin : https://www.linkedin.com/in/md-jahid-hasan-584712243/
 
+&& ||
+
 Follow me on Twitter : https://twitter.com/mdjahidhasan919
 
-or
+||
 
 Download my CV from here => 
 [Md Jahid Hasan-CV.pdf](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf)
