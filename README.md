@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Md Jahid Hasan a front-end developer. I am a detail-oriented and result-oriented person. I love my duties and responsibilities. I highly focus on my job. I am a quick learner and love coding. I love designing and developing Frond-End of amazing websites in Linux environment. I am keen to learn new technology.
+I am <h1>Md Jahid Hasan</h1> a front-end developer. I am a detail-oriented and result-oriented person. I love my duties and responsibilities. I highly focus on my job. I am a quick learner and love coding. I love designing and developing Frond-End of amazing websites in Linux environment. I am keen to learn new technology.
 
 Want to know more about me?
 
