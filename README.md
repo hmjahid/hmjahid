@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am <h1>Md Jahid Hasan</h1> a detail-oriented and result-oriented <b>FRONT-END DEVELOPER<b/> who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Frond-End of amazing websites in <em>Linux</em> environment. I am keen to learn new technology. <br><br>
+### I am <h1>Md Jahid Hasan</h1> a detail-oriented and result-oriented <b>FRONT-END DEVELOPER</b> who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Frond-End of amazing websites in <em>Linux</em> environment. I am keen to learn new technology. <br><br>
 
 
 if (You want to know more about me) { <br>
