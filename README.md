@@ -10,7 +10,7 @@ if (You want to know more about me) { <br>
   &nbsp; &nbsp; else if (You want to follow me on Twitter) { <br>
      &nbsp;  &nbsp;  &nbsp; &nbsp; <a href="https://twitter.com/mdjahidhasan919">Click Here</a> <br>
  &nbsp; &nbsp; &nbsp; } <br>
-&nbsp; &nbsp; &nbsp; } <br>
+} <br>
 else if (You want to download my cv) { <br>
      &nbsp; &nbsp; &nbsp; &nbsp; Click [Download](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) <br>
 } <br>
