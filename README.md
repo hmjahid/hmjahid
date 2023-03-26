@@ -13,7 +13,7 @@ if(You want to know more about me){ <br>
 &nbsp; &nbsp; &nbsp; } <br>
 else if(You want to download my cv){ <br>
      &nbsp; &nbsp; &nbsp; &nbsp; Click [Download](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) <br>
-}
+} <br>
 else{ <br>
      &nbsp; &nbsp; &nbsp; &nbsp; Thank you for your time <br>
 }
