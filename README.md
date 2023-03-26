@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am <h1>Md Jahid Hasan</h1> a passionate <strong>Front-End Developer</strong>. I am a detail-oriented and result-oriented person. I love my duties and responsibilities. I highly focus on my job. I am a quick learner and love coding. I love designing and developing Frond-End of amazing websites in Linux environment. I am keen to learn new technology.
+I am <h1>Md Jahid Hasan</h1> a passionate <strong>Front-End Developer</strong>. I am a detail-oriented and result-oriented person. I love my duties and responsibilities. I highly focus on my job. I am a quick learner and love coding. I love designing and developing Frond-End of amazing websites in <em>Linux</em> environment. I am keen to learn new technology.
 
 
 if(You want to know more about me){ <br>
@@ -15,8 +15,10 @@ else if(You want to download my cv){ <br>
      &nbsp; &nbsp; &nbsp; &nbsp; Click [Download](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) <br>
 }
 else{ <br>
-     &nbsp; &nbsp; &nbsp; &nbsp; Thank you for your time
+     &nbsp; &nbsp; &nbsp; &nbsp; Thank you for your time <br>
 }
+
+
 
 <!--
 Want to know more about me?
