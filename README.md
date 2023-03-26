@@ -4,15 +4,15 @@ I am <h1>Md Jahid Hasan</h1> a passionate <strong>Front-End Developer</strong>. 
 
 
 if(You want to know more about me){ <br>
-  if(You want to connect on Linkedin){
-       <a href="https://www.linkedin.com/in/md-jahid-hasan-584712243/">Click Here</a>
-  }
-  else if(You want to follow me on Twitter){
-       <a href="https://twitter.com/mdjahidhasan919">Click Here</a>
-  }
-}
-else if(You want to download my cv){
-     Click [Download](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf)
+  if(You want to connect on Linkedin){<br>
+       <a href="https://www.linkedin.com/in/md-jahid-hasan-584712243/">Click Here</a><br>
+  }<br>
+  else if(You want to follow me on Twitter){<br>
+       <a href="https://twitter.com/mdjahidhasan919">Click Here</a><br>
+  }<br>
+}<br>
+else if(You want to download my cv){<br>
+     Click [Download](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf)<br>
 }
 
 
