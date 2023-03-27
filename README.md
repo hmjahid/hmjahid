@@ -5,14 +5,14 @@
 
 if (You want to know more about me) { <br>
   &nbsp; &nbsp; if (You want to connect on Linkedin) { <br>
-     &nbsp; &nbsp; &nbsp; &nbsp;  Click => <button type="button"><a href="https://www.linkedin.com/in/md-jahid-hasan-584712243/">Go to Linkedin</a></button> <br>
+     &nbsp; &nbsp; &nbsp; &nbsp;  Click => <a href="https://www.linkedin.com/in/md-jahid-hasan-584712243/">Linkedin</a> <br>
   &nbsp; &nbsp; &nbsp; } <br>
   &nbsp; &nbsp; else if (You want to follow me on Twitter) { <br>
-     &nbsp;  &nbsp;  &nbsp; &nbsp; Click => <button type="button"><a href="https://twitter.com/mdjahidhasan919">Go to Twitter</a></button> <br>
+     &nbsp;  &nbsp;  &nbsp; &nbsp; Click => <a href="https://twitter.com/mdjahidhasan919">Twitter</a> <br>
  &nbsp; &nbsp; &nbsp; } <br>
 } <br>
 else if (You want to download my Resume) { <br>
-     &nbsp; &nbsp; &nbsp; &nbsp; Click => <button type="button">[Download](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf)</button> <br>
+     &nbsp; &nbsp; &nbsp; &nbsp; Click => [Download](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) <br>
 } <br>
 else { <br>
      &nbsp; &nbsp; &nbsp; &nbsp; Thank you for your time <br>
