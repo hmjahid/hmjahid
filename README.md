@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-### I am <h1>Md Jahid Hasan</h1> a passionate <strong>Front-End Developer</strong>. I am a detail-oriented and result-oriented person. I love my duties and responsibilities. I highly focus on my job. I am a quick learner and love coding. I love designing and developing Frond-End of amazing websites in <em>Linux</em> environment. I am keen to learn new technology. <br><br>
+### I am <h1>Md Jahid Hasan</h1> a detail-oriented and result-oriented <b>FRONT-END DEVELOPER</b> who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing websites in <em>Linux</em> environment. I am keen to learn new technology. <br><br>
 
 
 if (You want to know more about me) { <br>
   &nbsp; &nbsp; if (You want to connect on Linkedin) { <br>
-     &nbsp; &nbsp; &nbsp; &nbsp;  <a href="https://www.linkedin.com/in/md-jahid-hasan-584712243/">Click Here</a> <br>
+     &nbsp; &nbsp; &nbsp; &nbsp;  Click => <button><a href="https://www.linkedin.com/in/md-jahid-hasan-584712243/">Go to Linkedin</a></button> <br>
   &nbsp; &nbsp; &nbsp; } <br>
   &nbsp; &nbsp; else if (You want to follow me on Twitter) { <br>
-     &nbsp;  &nbsp;  &nbsp; &nbsp; <a href="https://twitter.com/mdjahidhasan919">Click Here</a> <br>
+     &nbsp;  &nbsp;  &nbsp; &nbsp; Click => <button><a href="https://twitter.com/mdjahidhasan919">Go to Twitter</a></button> <br>
  &nbsp; &nbsp; &nbsp; } <br>
 } <br>
-else if (You want to download my cv) { <br>
-     &nbsp; &nbsp; &nbsp; &nbsp; Click [Download](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) <br>
+else if (You want to download my Resume) { <br>
+     &nbsp; &nbsp; &nbsp; &nbsp; Click => <button>[Download](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf)</button> <br>
 } <br>
 else { <br>
      &nbsp; &nbsp; &nbsp; &nbsp; Thank you for your time <br>
@@ -50,6 +50,51 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
+
+
+
+<!--
+
+https://github.com/hmjahid/#user-80060849-pinned-items-reorder-form
+
+#user-80060849-pinned-items-reorder-form
+
+1. want to know more && connect/follow on social networks
+
+2. ! interseted && want to explore
+
+3. interested to know offline || want to download my cv
+
+
+
+let grade = "A";
+
+switch (grade) {
+    case "A":
+        console.log("You did great");
+        break;
+    case "B":
+        console.log("You did good");
+        break;
+    case "C":
+        console.log("You did okay");
+        break;
+    case "D":
+        console.log("You passed");
+        break;
+    case "F":
+        console.log("You failed");
+        break;
+    default:
+        console.log("grade, is not a letter grade");
+
+}
+
+
+-->
 
 
 
