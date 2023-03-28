@@ -15,10 +15,10 @@ else if (You are !(interseted) && want to explore my Github profile) { <br>
      &nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="https://github.com/hmjahid/#user-80060849-pinned-items-reorder-form">Explore Github</a> <br>
 } <br>
 else if (You are interested to know me offline || want to download my CV) { <br>
-     &nbsp; &nbsp; &nbsp; &nbsp; Click => [Download](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) <br>
+     &nbsp; &nbsp; &nbsp; &nbsp; Click => [Download CV](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) <br>
 } <br>
 else { <br>
-     &nbsp; &nbsp; &nbsp; &nbsp; Thank you for your time <br>
+     &nbsp; &nbsp; &nbsp; &nbsp; Thank you for your time & patience<br>
 }
 
 
