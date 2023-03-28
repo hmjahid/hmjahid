@@ -3,7 +3,7 @@
 ### I am <h1>Md Jahid Hasan</h1> a detail-oriented and result-oriented <b>FRONT-END DEVELOPER</b> who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing websites in <em>Linux</em> environment. I am keen to learn new technology. <br><br>
 
 
-if (You want to know more about me) { <br>
+if (You want to know more about me && connect/follow on social networks) { <br>
   &nbsp; &nbsp; if (You want to connect on Linkedin) { <br>
      &nbsp; &nbsp; &nbsp; &nbsp;  Click => <a href="https://www.linkedin.com/in/md-jahid-hasan-584712243/">Linkedin</a> <br>
   &nbsp; &nbsp; &nbsp; } <br>
@@ -11,7 +11,10 @@ if (You want to know more about me) { <br>
      &nbsp;  &nbsp;  &nbsp; &nbsp; Click => <a href="https://twitter.com/mdjahidhasan919">Twitter</a> <br>
  &nbsp; &nbsp; &nbsp; } <br>
 } <br>
-else if (You want to download my Resume) { <br>
+else if (You are !(interseted) && want to explore my Github profile) { <br>
+     &nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="https://github.com/hmjahid/#user-80060849-pinned-items-reorder-form">Explore Github</a> <br>
+} <br>
+else if (You are interested to know me offline || want to download my CV) { <br>
      &nbsp; &nbsp; &nbsp; &nbsp; Click => [Download](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) <br>
 } <br>
 else { <br>
