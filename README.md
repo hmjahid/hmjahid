@@ -32,7 +32,7 @@ switch (contact) { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://wa.me/+8801771749213">Whatsapp</a> <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; case "Mail Me" : <br>
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="mailto:mdjahidhasan919@gmail.com">Send Email</a> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="mailto:mdjahidhasan919@gmail.com">Send Mail</a> <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; case "Call Me" : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="tel:008801771749213" cm_dontconvertlink>Direct Call</a> <br>
