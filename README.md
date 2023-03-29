@@ -28,11 +28,11 @@ switch (contact) { <br>
 &nbsp; &nbsp; case "Chat on Skype" : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="https://join.skype.com/invite/ualzWlKSdoxS">Skype</a> <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
-&nbsp; &nbsp; case "Whatsapp Me" : <br>
+&nbsp; &nbsp; case "WhatsApp Me" : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="https://wa.me/+8801771749213">Whatsapp</a> <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
-&nbsp; &nbsp; case "Mail Me" : <br>
-&nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="mailto:mdjahidhasan919@gmail.com">Send Mail</a> <br>
+&nbsp; &nbsp; case "Email Me" : <br>
+&nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="mailto:mdjahidhasan919@gmail.com">Send Email</a> <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; case "Call Me" : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; Click => [Direct Call](+8801771749213)<br>
