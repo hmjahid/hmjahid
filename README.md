@@ -6,7 +6,7 @@
 
 portfolio () ; <br>
 
-const portfolio = (click) => [`${CLICK} HERE TO GO PORTFOLIO SITE`](https://hmjahid.netlify.app/) ;
+const portfolio = (click) => [`${click} HERE TO GO PORTFOLIO SITE`](https://hmjahid.netlify.app/) ;
 
 <h2>Connect With Me :</h2> 
 
