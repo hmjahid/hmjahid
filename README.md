@@ -25,19 +25,19 @@ else { <br>
 <h2>Contact Me :</h2> <br>
 
 switch (contact) { <br>
-&nbsp; &nbsp; case "Chat on Skype": <br>
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="live:jahid.bgd">Skype</a> <br>
-&nbsp; &nbsp; &nbsp; &nbsp; break; <br>
-&nbsp; &nbsp; case "Whatsapp Me": <br>
+&nbsp; &nbsp; case "Chat on Skype" : <br>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://live:jahid.bgd">Skype</a> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
+&nbsp; &nbsp; case "Whatsapp Me" : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://wa.me/+8801771749213">Whatsapp</a> <br>
-&nbsp; &nbsp; &nbsp; &nbsp; break; <br>
-&nbsp; &nbsp; case "Mail Me": <br>
+&nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
+&nbsp; &nbsp; case "Mail Me" : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="mailto:mdjahidhasan919@gmail.com">Send Email</a> <br>
-&nbsp; &nbsp; &nbsp; &nbsp; break; <br>
-&nbsp; &nbsp; case "Call Me": <br>
+&nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
+&nbsp; &nbsp; case "Call Me" : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="+8801771749213">Direct Call</a> <br>
-&nbsp; &nbsp; &nbsp; &nbsp; break; <br>
-&nbsp; &nbsp; default: <br>
+&nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
+&nbsp; &nbsp; default : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; Thank you again <br>
 }
 
