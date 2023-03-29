@@ -6,10 +6,10 @@
 
 if (You want to know more about me && connect/follow on social networks) { <br>
   &nbsp; &nbsp; if (You want to connect on Linkedin) { <br>
-     &nbsp; &nbsp; &nbsp; &nbsp;  Click => <a href="https://www.linkedin.com/in/md-jahid-hasan-584712243/">Linkedin</a> <br>
-  &nbsp; &nbsp; &nbsp; } else if (You want to follow me on Twitter) { <br>
-    &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; Click => <a href="https://twitter.com/mdjahidhasan919">Twitter</a> <br>
- &nbsp; &nbsp; &nbsp; } <br>
+     &nbsp; &nbsp; &nbsp; Click => <a href="https://www.linkedin.com/in/md-jahid-hasan-584712243/">Linkedin</a> <br>
+  &nbsp; &nbsp; } else if (You want to follow me on Twitter) { <br>
+    &nbsp; &nbsp;  &nbsp;  &nbsp; Click => <a href="https://twitter.com/mdjahidhasan919">Twitter</a> <br>
+ &nbsp; &nbsp; } <br>
 } else if (You are !(interseted) && want to explore my Github profile) { <br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="#user-80060849-pinned-items-reorder-form">Explore Github</a> <br>
 } else if (You are interested to know me offline || want to download my CV) { <br>
