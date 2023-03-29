@@ -29,7 +29,7 @@ switch (contact) { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="https://join.skype.com/invite/ualzWlKSdoxS">Skype</a> <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; case "WhatsApp Me" : <br>
-&nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="https://wa.me/+8801771749213">Whatsapp</a> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="https://wa.me/+8801771749213">WhatsApp</a> <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; case "Email Me" : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="mailto:mdjahidhasan919@gmail.com">Send Email</a> <br>
