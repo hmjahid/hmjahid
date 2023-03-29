@@ -39,6 +39,12 @@ switch (contact) { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; default : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; Thank you again <br>
+} 
+
+<h2>Hire Me :</h2> 
+
+function hireMe (hire) { <br>
+&nbsp; &nbsp; hire ? [Download CV](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) : Wish you a very good day ; <br>
 }
 
 
