@@ -35,7 +35,7 @@ switch (contact) { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="mailto:mdjahidhasan919@gmail.com">Send Email</a> <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; case "Call Me" : <br>
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="tel:008801771749213" cm_dontconvertlink>+88017717419213</a> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="tel:008801771749213" cm_dontconvertlink>Direct Call</a> <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; default : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; Thank you again <br>
