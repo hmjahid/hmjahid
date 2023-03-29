@@ -2,7 +2,7 @@
 
 ### I am <h1>Md Jahid Hasan</h1> a detail-oriented and result-oriented <b>FRONT-END DEVELOPER</b> who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing websites in <em>Linux</em> environment. I am keen to learn new technology. <br><br>
 
-<h2>Connect With Me :</h2> <br>
+<h2>Connect With Me :</h2> 
 
 if (You want to know more about me && connect/follow on social networks) { <br>
   &nbsp; &nbsp; if (You want to connect on Linkedin) { <br>
@@ -20,9 +20,9 @@ else if (You are interested to know me offline || want to download my CV) { <br>
 } <br>
 else { <br>
      &nbsp; &nbsp; &nbsp; &nbsp; Thank you for your time & patience <br>
-} <br><br>
+} 
 
-<h2>Contact Me :</h2> <br>
+<h2>Contact Me :</h2> 
 
 switch (contact) { <br>
 &nbsp; &nbsp; case "Chat on Skype" : <br>
