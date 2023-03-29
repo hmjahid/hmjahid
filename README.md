@@ -4,7 +4,7 @@
 
 <h2>Portfolio :</h2>
 
-const portfolio = () => Click => [GO TO PORTFOLIO SITE](https://hmjahid.netlify.app/) ;
+const portfolio = () => [GO TO PORTFOLIO SITE](https://hmjahid.netlify.app/) ;
 
 <h2>Connect With Me :</h2> 
 
