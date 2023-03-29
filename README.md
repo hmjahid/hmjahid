@@ -4,7 +4,9 @@
 
 <h2>Portfolio :</h2>
 
-const portfolio = ( ) => [CLICK HERE TO GO PORTFOLIO SITE](https://hmjahid.netlify.app/) ;
+portfolio () ; <br>
+
+const portfolio = (click) => [ $ {CLICK} HERE TO GO PORTFOLIO SITE](https://hmjahid.netlify.app/) ;
 
 <h2>Connect With Me :</h2> 
 
@@ -42,6 +44,8 @@ switch (contact) { <br>
 } 
 
 <h2>Hire Me :</h2> 
+
+hireMe () ; <br>
 
 function hireMe (hire) { <br>
 &nbsp; &nbsp; hire ? [Download CV](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) : Wish you a very good day ; <br>
