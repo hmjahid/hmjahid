@@ -52,16 +52,16 @@ const portfolio = (click) => [`${click} HERE TO GO PORTFOLIO SITE`](https://hmja
 
 if (You want to know more about me && connect/follow on social networks) { <br>
 &nbsp; &nbsp; if (You want to connect on Linkedin) { <br>
-&nbsp; &nbsp; &nbsp; Click => <a href="https://www.linkedin.com/in/md-jahid-hasan-584712243/">Linkedin</a> <br>
+&nbsp; &nbsp; &nbsp; Click => <a href="https://www.linkedin.com/in/md-jahid-hasan-584712243/">Linkedin</a> ; <br>
 &nbsp; &nbsp; } else if (You want to follow me on Twitter) { <br>
-&nbsp; &nbsp;  &nbsp; Click => <a href="https://twitter.com/mdjahidhasan919">Twitter</a> <br>
+&nbsp; &nbsp;  &nbsp; Click => <a href="https://twitter.com/mdjahidhasan919">Twitter</a> ; <br>
 &nbsp; &nbsp; } <br>
 } else if (You are !(interseted) && want to explore my Github profile) { <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="#user-80060849-pinned-items-reorder-form">Explore Github</a> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="#user-80060849-pinned-items-reorder-form">Explore Github</a> ; <br>
 } else if (You are interested to know me offline || want to download my CV) { <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Click => [Download CV](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Click => [Download CV](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) ; <br>
 } else { <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thank you for your time & patience <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thank you for your time & patience ; <br>
 } 
 
 
@@ -69,19 +69,19 @@ if (You want to know more about me && connect/follow on social networks) { <br>
 
 switch (contact) { <br>
 &nbsp; &nbsp; case "Chat on Skype" : <br>
-&nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="https://join.skype.com/invite/ualzWlKSdoxS">Skype</a> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="https://join.skype.com/invite/ualzWlKSdoxS">Skype</a> ; <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; case "WhatsApp Me" : <br>
-&nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="https://wa.me/+8801771749213">WhatsApp</a> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="https://wa.me/+8801771749213">WhatsApp</a> ; <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; case "Email Me" : <br>
-&nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="mailto:mdjahidhasan919@gmail.com">Send Email</a> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; Click => <a href="mailto:mdjahidhasan919@gmail.com">Send Email</a> ; <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; case "Call Me" : <br>
-&nbsp; &nbsp; &nbsp; &nbsp; Click => [Direct Call](+8801771749213)<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Click => [Direct Call](+8801771749213) ; <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; default : <br>
-&nbsp; &nbsp; &nbsp; &nbsp; Thank you again <br>
+&nbsp; &nbsp; &nbsp; &nbsp; Thank you again ; <br>
 } 
 
 
