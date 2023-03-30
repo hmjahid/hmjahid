@@ -21,7 +21,7 @@ let projects = [ <br>
 &nbsp; &nbsp; } , <br>
 &nbsp; &nbsp; { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "name" : "Farmers Kingdom Web Application" <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , Bootstrap , CDN , AJAX , API , Google API , Windy API , Font - Awesome" <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , Bootstrap , CDN , AJAX , API , Google API , Windy API , Font-Awesome" <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/FarmersKingdom) <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://farmerskingdom.netlify.app/) <br>
 &nbsp; &nbsp; } , <br>
@@ -36,7 +36,7 @@ let projects = [ <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , Bootstrap , CDN" <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/OutFits) <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://outfits1.netlify.app/)<br>
-&nbsp; &nbsp; }
+&nbsp; &nbsp; } <br>
 ]
 
 <h2>Portfolio :</h2>
