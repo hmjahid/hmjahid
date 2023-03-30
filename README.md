@@ -2,48 +2,51 @@
 
 ### I am <h1>Md Jahid Hasan</h1> a detail-oriented and result-oriented <b>FRONT-END DEVELOPER</b> who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing websites in <em>Linux</em> environment. I am keen to learn new technology. <br>
 
-<h2>Projects :</h2>
 
-console.log (projects) ; <br>
+<h2>Projects :</h2>
 
 let projects = [ <br> 
 &nbsp; &nbsp; { <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "name" : "My First React App" <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , JavaScript , React.js" <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/My-First-React-App)<br>
-&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://hmjahid.netlify.app/)<br>
+&nbsp; &nbsp; &nbsp; &nbsp; "name" : "My First React App" , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , JavaScript , React.js" , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/My-First-React-App) , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://hmjahid.netlify.app/) , <br>
 &nbsp; &nbsp; } , <br>
 &nbsp; &nbsp; { <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "name" : "To Do App" <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , JavaScript , CDN" <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/To-Do-App) <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://jahids-to-do-app.netlify.app/) <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "name" : "To Do App" , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , JavaScript , CDN" , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/To-Do-App) , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://jahids-to-do-app.netlify.app/) , <br>
 &nbsp; &nbsp; } , <br>
 &nbsp; &nbsp; { <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "name" : "Farmers Kingdom Web Application" <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , Bootstrap , CDN , AJAX , API , Google API , Windy API , Font-Awesome" <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/FarmersKingdom) <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://farmerskingdom.netlify.app/) <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "name" : "Farmers Kingdom Web Application" , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , Bootstrap , CDN , AJAX , API , Google API , Windy API , Font-Awesome" , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/FarmersKingdom) , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://farmerskingdom.netlify.app/) , <br>
 &nbsp; &nbsp; } , <br>
 &nbsp; &nbsp; { <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "name" : "SoftTech - Software Development Company Website Clone" <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS" <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/SoftTech)<br>
-&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://softtech1.netlify.app/) <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "name" : "SoftTech - Software Development Company Website Clone" , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS" , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/SoftTech) , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://softtech1.netlify.app/) , <br>
 &nbsp; &nbsp; } , <br>
 &nbsp; &nbsp; { <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "name" : "OutFits - an e-commerce Web Application" <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , Bootstrap , CDN" <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/OutFits) <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://outfits1.netlify.app/)<br>
+&nbsp; &nbsp; &nbsp; &nbsp; "name" : "OutFits - an e-commerce Web Application" , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , Bootstrap , CDN" , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/OutFits) , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://outfits1.netlify.app/) , <br>
 &nbsp; &nbsp; } <br>
-]
+] <br>
+
+console.table (projects) ; 
+
 
 <h2>Portfolio :</h2>
 
 portfolio () ; <br>
 
 const portfolio = (click) => [`${click} HERE TO GO PORTFOLIO SITE`](https://hmjahid.netlify.app/) ;
+
 
 <h2>Connect With Me :</h2> 
 
@@ -60,6 +63,7 @@ if (You want to know more about me && connect/follow on social networks) { <br>
 } else { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thank you for your time & patience <br>
 } 
+
 
 <h2>Contact Me :</h2> 
 
@@ -79,6 +83,7 @@ switch (contact) { <br>
 &nbsp; &nbsp; default : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; Thank you again <br>
 } 
+
 
 <h2>Hire Me :</h2> 
 
