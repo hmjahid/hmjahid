@@ -59,7 +59,7 @@ if (You want to know more about me && connect/follow on social networks) { <br>
 } else if (You are !(interseted) && want to explore my Github profile) { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="#user-80060849-pinned-items-reorder-form">Explore Github</a> ; <br>
 } else if (You are interested to know me offline || want to download my CV) { <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Download CV](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) ; <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Click => [Download CV](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) ; <br>
 } else { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thank you for your time & patience ; <br>
 } 
@@ -90,8 +90,9 @@ switch (contact) { <br>
 hireMe () ; <br>
 
 function hireMe (hire) { <br>
-&nbsp; &nbsp; hire ? [Download CV](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf) : Wish you a very good day ; <br>
+&nbsp; &nbsp; hire ? [Download CV](https://github.com/hmjahid/hmjahid/files/11109881/Md.Jahid.Hasan_CV.pdf) : Wish you a very good day ; <br>
 }
+
 
 
 
@@ -108,6 +109,8 @@ Follow me on <a href="https://twitter.com/mdjahidhasan919">Twitter</a>
 
 Download my CV from here => 
 [Md Jahid Hasan-CV.pdf](https://github.com/hmjahid/hmjahid/files/11053281/Md.Jahid.Hasan-CV.pdf)
+
+[Md Jahid Hasan_CV.pdf](https://github.com/hmjahid/hmjahid/files/11109881/Md.Jahid.Hasan_CV.pdf)
 -->
 
 <!--
