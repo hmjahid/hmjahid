@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h3>Do You Want To Skip This Readme Section? <a href="#user-80060849-pinned-items-reorder-form">Click Here</a><br>
-Or<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Or<br>
 Read Below<br>
-&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &darr;</h3>
+&nbsp; &nbsp; &nbsp; &nbsp; &darr;</h3>
 
 
 ### I am <h1>Md Jahid Hasan</h1> a detail-oriented and result-oriented <b>FRONT-END DEVELOPER</b> who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing websites in <em>Linux</em> environment. I am keen to learn new technology. <br>
