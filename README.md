@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>Do You Want To Skip This README Section? <a href="#user-80060849-pinned-items-reorder-form">Click Here</a><br>
+<h3>If You Want To Skip This README Section? <a href="#user-80060849-pinned-items-reorder-form">Click Here</a><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;OR<br>
 Read From Below<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&darr;</h3>
