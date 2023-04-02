@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-<h3>if You Want To Skip This README Section : <a href="#user-80060849-pinned-items-reorder-form">Click Here</a><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;else<br>
-Read From Below<br>
+<h3>if (You Want To Skip This README Section = true) { <br>
+    &nbsp; &nbsp; &nbsp; &nbsp; <a href="#user-80060849-pinned-items-reorder-form">Click Here</a> ; <br>
+    } else { <br>
+    &nbsp; &nbsp; &nbsp; &nbsp; Read From Below ; <br>
+    } <br>
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&darr;</h3>
 
 
@@ -103,6 +106,16 @@ function hireMe (hire) { <br>
 
 
 <!--
+<h3>if (You Want To Skip This README Section = true) { <br>
+    &nbsp; <a href="#user-80060849-pinned-items-reorder-form">Click Here</a> <br>
+    } <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;else<br>
+Read From Below<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&darr;</h3>
+
+
+
+
 Want to know more about me?
 
 Let's connect on <a href="https://www.linkedin.com/in/md-jahid-hasan-584712243/">Linkedin</a>
