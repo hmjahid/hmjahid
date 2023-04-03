@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<h3>if (You Want To Skip This README Section = true) { <br>
+<h3>if (You want to skip this README section = true) { <br>
     &nbsp; &nbsp; &nbsp;<a href="#user-80060849-pinned-items-reorder-form">Click Here</a> ; <br>
     } else { <br>
-    &nbsp; &nbsp; &nbsp;Read From Below ; <br>
+    &nbsp; &nbsp; &nbsp;Read from below ; <br>
     } <br>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&darr;</h3>
