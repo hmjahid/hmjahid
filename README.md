@@ -1,5 +1,4 @@
-
-![Banner](https://user-images.githubusercontent.com/80060849/230279775-35e05769-8a9c-4c5f-97c9-b3c73272c6a3.pn
+![Banner](https://user-images.githubusercontent.com/80060849/230280054-cf986ee9-13dd-48d4-9e91-32cd7878519a.jpg)
 
 ### Hi there 👋
 
