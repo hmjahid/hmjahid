@@ -26,37 +26,37 @@ let projects = [ <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "name" : "Portfolio" , <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , JavaScript , React.js" , <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/Portfolio) , <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://hmjahid.netlify.app/) , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://hmjahid.netlify.app/) <br>
 &nbsp; &nbsp; } , <br>
 &nbsp; &nbsp; { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "name" : "My First React App" , <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , JavaScript , React.js" , <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/My-First-React-App) , <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://hmjahid-my-first-react-app.netlify.app/) , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://hmjahid-my-first-react-app.netlify.app/) <br>
 &nbsp; &nbsp; } , <br>
 &nbsp; &nbsp; { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "name" : "To Do App" , <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , JavaScript , CDN" , <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/To-Do-App) , <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://jahids-to-do-app.netlify.app/) , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://jahids-to-do-app.netlify.app/) <br>
 &nbsp; &nbsp; } , <br>
 &nbsp; &nbsp; { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "name" : "Farmers Kingdom Web Application" , <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , Bootstrap , CDN , AJAX , API , Google API , Windy API , Font-Awesome" , <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/FarmersKingdom) , <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://farmerskingdom.netlify.app/) , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://farmerskingdom.netlify.app/) <br>
 &nbsp; &nbsp; } , <br>
 &nbsp; &nbsp; { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "name" : "SoftTech - Software Development Company Website Clone" , <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS" , <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/SoftTech) , <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://softtech1.netlify.app/) , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://softtech1.netlify.app/) <br>
 &nbsp; &nbsp; } , <br>
 &nbsp; &nbsp; { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "name" : "OutFits - an e-commerce Web Application" , <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , Bootstrap , CDN" , <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/OutFits) , <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://outfits1.netlify.app/) , <br>
+&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://outfits1.netlify.app/) <br>
 &nbsp; &nbsp; } <br>
 ] <br>
 
