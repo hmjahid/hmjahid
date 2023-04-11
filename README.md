@@ -115,7 +115,21 @@ function hireMe (hire) { <br>
 &nbsp; &nbsp; hire ? [Download CV](https://github.com/hmjahid/hmjahid/files/11183393/Md.Jahid.Hasan_CV.pdf) : Wish you a very good day ; <br>
 }
 
+<h2>Hire on Marketplaces :</h2> 
 
+switch (hire) { <br>
+&nbsp; &nbsp; case "Hire on Upwork" : <br>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.upwork.com/freelancers/~010cdb4fba08b4f5e0" target='_blank'><button>HIRE ON UPWORK</button></a> ; <br>
+&nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
+&nbsp; &nbsp; case "Hire on Freelancer" : <br>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.freelancer.com/u/hmjahid" target='_blank'><button>HIRE ON FREELANCER</button></a> ; <br>
+&nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
+&nbsp; &nbsp; case "Hire on Fiverr" : <br>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.fiverr.com/" target='_blank'><button>HIRE ON FIVERR</button></a>; <br>
+&nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
+&nbsp; &nbsp; default : <br>
+&nbsp; &nbsp; &nbsp; &nbsp; Thank you and wish you a very good day again ; <br>
+} 
 
 
 <!--
