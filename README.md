@@ -23,12 +23,6 @@ const profile = function () { <br>
 
 let projects = [ <br> 
 &nbsp; &nbsp; { <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "name" : "Portfolio" , <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , JavaScript , React.js" , <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/Portfolio) , <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "live_site" : [Click Here](https://hmjahid.netlify.app/) <br>
-&nbsp; &nbsp; } , <br>
-&nbsp; &nbsp; { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "name" : "My First React App" , <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "technology" : "HTML , CSS , JavaScript , React.js" , <br>
 &nbsp; &nbsp; &nbsp; &nbsp; "source_code" : [Click Here](https://github.com/hmjahid/My-First-React-App) , <br>
