@@ -115,7 +115,7 @@ function hireMe (hire) { <br>
 &nbsp; &nbsp; hire ? [Download CV](https://github.com/hmjahid/hmjahid/files/11183393/Md.Jahid.Hasan_CV.pdf) : Wish you a very good day ; <br>
 }
 
-<h2>Hire on Marketplaces :</h2> 
+<h2>Hire Me on Marketplaces :</h2> 
 
 switch (hire) { <br>
 &nbsp; &nbsp; case "Hire on Upwork" : <br>
