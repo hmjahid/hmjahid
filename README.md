@@ -1,5 +1,4 @@
 ![Banner](https://user-images.githubusercontent.com/80060849/230280054-cf986ee9-13dd-48d4-9e91-32cd7878519a.jpg)
-
 <h4><code>{ A Practical Approach to Design, Implementation and Management of Imaginations & Obligations in Real World }</code></h4>
 
 ### Hi there 👋
