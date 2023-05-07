@@ -128,7 +128,7 @@ switch (hire) { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.fiverr.com/hmjahid7432" target='_blank'><button>HIRE ON FIVERR</button></a> ; <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; case "Hire on Guru" : <br>
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.guru.com/pro/ProfileBuild.aspx?tab=2" target='_blank'><button>HIRE ON Guru</button></a> ; <br>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.guru.com/freelancers/hmjahid/pro/ProfileBuild.aspx?tab=2" target='_blank'><button>HIRE ON Guru</button></a> ; <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; default : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; Thank you and wish you a very good day again ; <br>
