@@ -127,6 +127,9 @@ switch (hire) { <br>
 &nbsp; &nbsp; case "Hire on Fiverr" : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.fiverr.com/hmjahid7432" target='_blank'><button>HIRE ON FIVERR</button></a> ; <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
+&nbsp; &nbsp; case "Hire on Kwork" : <br>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://kwork.com/user/hmjahid" target='_blank'><button>HIRE ON KWORK</button></a> ; <br>
+&nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; case "Hire on Guru" : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.guru.com/freelancers/hmjahid" target='_blank'><button>HIRE ON GURU</button></a> ; <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
