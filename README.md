@@ -114,9 +114,6 @@ function hireMe (hire) { <br>
 <h2>Hire Me on Marketplaces :</h2> 
 
 switch (hire) { <br>
-&nbsp; &nbsp; case "Hire on Fiverr" : <br>
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.fiverr.com/hmjahid7432" target='_blank'><button>HIRE ON FIVERR</button></a> ; <br>
-&nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
 &nbsp; &nbsp; case "Hire on Upwork" : <br>
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.upwork.com/freelancers/~010cdb4fba08b4f5e0" target='_blank'><button>HIRE ON UPWORK</button></a> ; <br>
 &nbsp; &nbsp; &nbsp; &nbsp; break ; <br>
