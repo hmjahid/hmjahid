@@ -13,7 +13,7 @@
 profile () ; <br>
 
 const profile = function () { <br>
-### I am <h3>Md Jahid Hasan</h3> a detail-oriented and result-oriented <b>WordPress Developer and System Administrator</b> who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing websites in <em>Linux</em> environment. I am keen to learn new technology. <br>
+### I am <h3>Md Jahid Hasan</h3> a detail-oriented and result-oriented <b>WordPress Developer</b> who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing websites in <em>Linux</em> environment. I am keen to learn new technology. <br>
 }
 
 
