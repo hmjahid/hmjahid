@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hmjahid&label=Profile%20views&color=0e75b6&style=flat" alt="hmjahid" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -129,6 +129,6 @@ Passionate **Web & WordPress Developer** with **2+ years** of hands-on experienc
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hmjahid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+</div> -->
