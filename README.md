@@ -23,7 +23,6 @@ Passionate **Web & WordPress Developer** with **2+ years** of hands-on experienc
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
@@ -50,6 +49,14 @@ Passionate **Web & WordPress Developer** with **2+ years** of hands-on experienc
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
+### 🤖 AI & Developer Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI" />
+  <img src="https://img.shields.io/badge/Gemini_CLI-FF6D01?style=for-the-badge&logo=google&logoColor=white" alt="Gemini CLI" />
+  <img src="https://img.shields.io/badge/Windsurf-0066CC?style=for-the-badge&logo=windsurf&logoColor=white" alt="Windsurf" />
+  <img src="https://img.shields.io/badge/Warp_Dev-00AAFF?style=for-the-badge&logo=warp&logoColor=white" alt="Warp Dev" />
+</div>
+
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
@@ -64,7 +71,6 @@ Passionate **Web & WordPress Developer** with **2+ years** of hands-on experienc
 
 - 🚀 Successfully migrated and optimized websites with **zero downtime**
 - ⚡ Enhanced website performance, achieving **90+ PageSpeed scores**
-- 🔄 Implemented **CI/CD pipelines** for automated deployments
 - 🛡️ Improved **security measures** across multiple client projects
 - 📈 **Increased conversion rates** through performance optimization
 
